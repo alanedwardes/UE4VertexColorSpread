@@ -1,6 +1,3 @@
-# Unreal Engine 4 Vertex Color Spread
-Vertex colour spread code for Unreal Engine 4.
-
 ## What is this
 I once wrote a [forum post](https://forums.unrealengine.com/showthread.php?14851-Painting-Vertex-Colours-From-Code) about painting vertex colours from code, and since then people have been bugging me to release the final source code for my little experiment.
 
