@@ -1,4 +1,4 @@
-## What is This
+## What Is This
 I once wrote a [forum post](https://forums.unrealengine.com/showthread.php?14851-Painting-Vertex-Colours-From-Code) about painting vertex colours from code, and I have been asked to publish the result.
 
 Do what you want with the code. Bear in mind it may be buggy and be very unoptimised. Please submit pull requests back if you fix something though, I will actively review, test and accept changes :)
