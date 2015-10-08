@@ -26,3 +26,13 @@
 *.exe
 *.out
 *.app
+*.opensdf
+*.sdf
+*.suo
+*.sln
+
+# Unreal Engine
+Binaries/*
+Build/*
+Intermediate/*
+Saved/*
